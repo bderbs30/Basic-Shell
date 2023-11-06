@@ -22,5 +22,5 @@ The pipe operator | runs the command on the left hand side and the command on th
 - source
 
 ## Visuals
+![image](https://github.com/bderbs30/Basic-Shell/assets/124754518/44ea02cb-6a76-4032-bc02-7e1d9758248c)
 
-![image](https://github.com/bderbs30/Basic-Shell/assets/124754518/2b1daa62-7044-446b-8ff5-be6b72ce830b)
